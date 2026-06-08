@@ -4,7 +4,6 @@ This tutorial outlines the enrollment and provisioning of users after importing 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure Entra ID
 - Okta
 
 
